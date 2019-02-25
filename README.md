@@ -6,7 +6,7 @@ Game Description: This is mini game containing one player character and one enem
 
 Screenshots:
 
-![](images/gaem.png)
+![](images/game.png)
 ![](images/menu.png)
-![](images/credits.png)
-![](images/instruction.png)
+![](images/credit.png)
+![](images/instructions.png)
