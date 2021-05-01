@@ -1,11 +1,11 @@
 # MotoZombies
 This repository contains a mini game created using Igraphics.h and visual studio
 <br>
-IDE: Visual studio ultimate 13,codeblocks
+<strong>IDE: </strong> Visual studio ultimate 13,codeblocks
 <br>
-Language: C,C++;
+<strong>Language:</strong>  C,C++;
 <br>
-Game Description: This is mini game containing one player character and one enemy character ,player chaarcter is the boy riding a bike and enemy character is the xpmbie ,you have to hit the zombie with  fire barrel to kill the  zombie ,booth the zombie and you hae health bars, if the zombie crosses you you will lose some health, and if you hit it then zombie will reduce health
+<strong>Game Description:</strong>  This is mini game containing one player character and one enemy character ,player chaarcter is the boy riding a bike and enemy character is the xpmbie ,you have to hit the zombie with  fire barrel to kill the  zombie ,booth the zombie and you hae health bars, if the zombie crosses you you will lose some health, and if you hit it then zombie will reduce health
 
 <br>
 Screenshots:
